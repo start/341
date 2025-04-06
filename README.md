@@ -1,6 +1,6 @@
 ![Full character set](preview.png)
 
-341 is a 3x4 pixel font with 1-bit color. 
+341 is a 3x4 pixel font without animation. 
 
 The characters are arranged in ASCII-order:
 
